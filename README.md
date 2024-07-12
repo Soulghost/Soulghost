@@ -3,8 +3,6 @@
 
 I am a professional iOS Developer and an iOS Security Researcher.
 
-- 🔭 I’m currently working on [iblessing - an iOS security exploiting toolkit includes scanners and generators](https://github.com/Soulghost/iblessing)
-
 <!--
 **Soulghost/Soulghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
